@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokemon-team-creator/static/css/main.6d3f02fe.chunk.css",
+    "main.js": "/pokemon-team-creator/static/js/main.7a70836d.chunk.js",
+    "main.js.map": "/pokemon-team-creator/static/js/main.7a70836d.chunk.js.map",
+    "runtime-main.js": "/pokemon-team-creator/static/js/runtime-main.79d2975b.js",
+    "runtime-main.js.map": "/pokemon-team-creator/static/js/runtime-main.79d2975b.js.map",
+    "static/js/2.72fa39b7.chunk.js": "/pokemon-team-creator/static/js/2.72fa39b7.chunk.js",
+    "static/js/2.72fa39b7.chunk.js.map": "/pokemon-team-creator/static/js/2.72fa39b7.chunk.js.map",
+    "index.html": "/pokemon-team-creator/index.html",
+    "precache-manifest.73f13abb5d92f717fb7b102e78fde0d9.js": "/pokemon-team-creator/precache-manifest.73f13abb5d92f717fb7b102e78fde0d9.js",
+    "service-worker.js": "/pokemon-team-creator/service-worker.js",
+    "static/css/main.6d3f02fe.chunk.css.map": "/pokemon-team-creator/static/css/main.6d3f02fe.chunk.css.map",
+    "static/js/2.72fa39b7.chunk.js.LICENSE.txt": "/pokemon-team-creator/static/js/2.72fa39b7.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/pokemon-team-creator/static/media/pokeball.484ea339.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d2975b.js",
+    "static/js/2.72fa39b7.chunk.js",
+    "static/css/main.6d3f02fe.chunk.css",
+    "static/js/main.7a70836d.chunk.js"
+  ]
+}
