@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e783d314e82b68f181b9771d905b5846",
+    "revision": "32c17cfa153b412493fd582f97d0a03d",
     "url": "/pokemon-team-creator/index.html"
   },
   {
-    "revision": "545540e1a30169f6a68f",
-    "url": "/pokemon-team-creator/static/css/main.6d3f02fe.chunk.css"
+    "revision": "4b6f5023c6fd8d7fd10c",
+    "url": "/pokemon-team-creator/static/css/main.7b52790c.chunk.css"
   },
   {
     "revision": "b842b420464f60a9c6e7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-team-creator/static/js/2.72fa39b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "545540e1a30169f6a68f",
+    "revision": "4b6f5023c6fd8d7fd10c",
     "url": "/pokemon-team-creator/static/js/main.7a70836d.chunk.js"
   },
   {
